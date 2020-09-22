@@ -1,0 +1,619 @@
+<w:body>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="P14"/>
+			</w:pPr>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="P13"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rStyle w:val="T1"/>
+				</w:rPr>
+				<w:t>${first_name} </w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rStyle w:val="T6"/>
+				</w:rPr>
+				<w:t>Morgan</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="P7"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rStyle w:val="T5"/>
+				</w:rPr>
+				<w:t>Address:</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rStyle w:val="T7"/>
+				</w:rPr>
+				<w:t> 177 Great Portland Street, London W5W 6PQ</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="P7"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rStyle w:val="T5"/>
+				</w:rPr>
+				<w:t>Phone:</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rStyle w:val="T7"/>
+				</w:rPr>
+				<w:t> +44 (0)20 7666 8555</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="P7"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rStyle w:val="T5"/>
+				</w:rPr>
+				<w:t>Email:</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rStyle w:val="T7"/>
+				</w:rPr>
+				<w:t> christoper.morgan@gmail.com</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="P4"/>
+			</w:pPr>
+		</w:p>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblStyle w:val="Table1"/>
+				<w:tblW w:w="9645.2372" w:type="dxa"/>
+				<w:tblInd w:w="-54.999" w:type="dxa"/>
+				<w:jc w:val="left"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="2488.563"/>
+				<w:gridCol w:w="7156.1071"/>
+			</w:tblGrid>
+			<w:tr>
+				<w:trPr/>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="2488.563"/>
+						<w:shd w:val="solid" w:color="ffffff"/>
+						<w:tcMar/>
+						<w:tcBorders>
+							<w:top w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:bottom w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:left w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:right w:val="none" w:sz="0" w:color="auto"/>
+						</w:tcBorders>
+					</w:tcPr>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T5"/>
+							</w:rPr>
+							<w:t>OBJECTIVE</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="7156.1071"/>
+						<w:shd w:val="solid" w:color="ffffff"/>
+						<w:tcMar/>
+						<w:tcBorders>
+							<w:top w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:bottom w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:left w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:right w:val="single" w:sz="0" w:color="ffffff"/>
+						</w:tcBorders>
+					</w:tcPr>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T7"/>
+							</w:rPr>
+							<w:t>Provide analysis data support in a company as Data Analyst.</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="P5"/>
+			</w:pPr>
+		</w:p>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblStyle w:val="Table2"/>
+				<w:tblW w:w="9645.2372" w:type="dxa"/>
+				<w:tblInd w:w="-54.999" w:type="dxa"/>
+				<w:jc w:val="left"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="2488.563"/>
+				<w:gridCol w:w="7156.1071"/>
+			</w:tblGrid>
+			<w:tr>
+				<w:trPr/>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="2488.563"/>
+						<w:shd w:val="solid" w:color="ffffff"/>
+						<w:tcMar/>
+						<w:tcBorders>
+							<w:top w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:bottom w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:left w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:right w:val="none" w:sz="0" w:color="auto"/>
+						</w:tcBorders>
+					</w:tcPr>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T5"/>
+							</w:rPr>
+							<w:t>WORK</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T5"/>
+							</w:rPr>
+							<w:t>EXPERIENCE</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="7156.1071"/>
+						<w:shd w:val="solid" w:color="ffffff"/>
+						<w:tcMar/>
+						<w:tcBorders>
+							<w:top w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:bottom w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:left w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:right w:val="single" w:sz="0" w:color="ffffff"/>
+						</w:tcBorders>
+					</w:tcPr>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="P8"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T2"/>
+							</w:rPr>
+							<w:t>04/2014 - 04/018</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Standard"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T3"/>
+							</w:rPr>
+							<w:t>Data Analyst, GHT Company, Madrid Spain</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Standard"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T2"/>
+							</w:rPr>
+							<w:t>Responsibilities:</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="P10"/>
+						</w:pPr>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="P8"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T2"/>
+							</w:rPr>
+							<w:t>03/2012 – 05/2014</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Standard"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T3"/>
+							</w:rPr>
+							<w:t>Data Analyst, Startup Corporation, Madrid Spain</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Standard"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T2"/>
+							</w:rPr>
+							<w:t>Responsibilities:</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="P5"/>
+			</w:pPr>
+		</w:p>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblStyle w:val="Table3"/>
+				<w:tblW w:w="9645.2372" w:type="dxa"/>
+				<w:tblInd w:w="-54.999" w:type="dxa"/>
+				<w:jc w:val="left"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="2488.563"/>
+				<w:gridCol w:w="7156.1071"/>
+			</w:tblGrid>
+			<w:tr>
+				<w:trPr/>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="2488.563"/>
+						<w:shd w:val="solid" w:color="ffffff"/>
+						<w:tcMar/>
+						<w:tcBorders>
+							<w:top w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:bottom w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:left w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:right w:val="none" w:sz="0" w:color="auto"/>
+						</w:tcBorders>
+					</w:tcPr>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T5"/>
+							</w:rPr>
+							<w:t>EDUCATION</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="P1"/>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="7156.1071"/>
+						<w:shd w:val="solid" w:color="ffffff"/>
+						<w:tcMar/>
+						<w:tcBorders>
+							<w:top w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:bottom w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:left w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:right w:val="single" w:sz="0" w:color="ffffff"/>
+						</w:tcBorders>
+					</w:tcPr>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="P2"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T8"/>
+							</w:rPr>
+							<w:t> </w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T7"/>
+							</w:rPr>
+							<w:t>2004 - 2008</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T9"/>
+							</w:rPr>
+							<w:t>Bachelor Degree of Computer Science</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T7"/>
+							</w:rPr>
+							<w:t>, Technical University of Madrid</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="P2"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T7"/>
+							</w:rPr>
+							<w:t>2002 - 2004</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T9"/>
+							</w:rPr>
+							<w:t>Certified as Data Analyst</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T7"/>
+							</w:rPr>
+							<w:t>, </w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T9"/>
+							</w:rPr>
+							<w:t>Data Analyst Certification</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T7"/>
+							</w:rPr>
+							<w:t>, Technical University of Madrid</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="P12"/>
+			</w:pPr>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="P6"/>
+			</w:pPr>
+		</w:p>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblStyle w:val="Table4"/>
+				<w:tblW w:w="9645.2372" w:type="dxa"/>
+				<w:tblInd w:w="-54.999" w:type="dxa"/>
+				<w:jc w:val="left"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="2488.563"/>
+				<w:gridCol w:w="7156.1071"/>
+			</w:tblGrid>
+			<w:tr>
+				<w:trPr/>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="2488.563"/>
+						<w:shd w:val="solid" w:color="ffffff"/>
+						<w:tcMar/>
+						<w:tcBorders>
+							<w:top w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:bottom w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:left w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:right w:val="none" w:sz="0" w:color="auto"/>
+						</w:tcBorders>
+					</w:tcPr>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T5"/>
+							</w:rPr>
+							<w:t>ADDITIONAL</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T5"/>
+							</w:rPr>
+							<w:t>SKILLS</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="7156.1071"/>
+						<w:shd w:val="solid" w:color="ffffff"/>
+						<w:tcMar/>
+						<w:tcBorders>
+							<w:top w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:bottom w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:left w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:right w:val="single" w:sz="0" w:color="ffffff"/>
+						</w:tcBorders>
+					</w:tcPr>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T7"/>
+							</w:rPr>
+							<w:t>Microsoft Office package: Microsoft Word, Excel, Access</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T7"/>
+							</w:rPr>
+							<w:t>Database operation: Microsoft Office Access, Oracle 8i</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T7"/>
+							</w:rPr>
+							<w:t>Statistical operation: SPSS, STATA</w:t>
+						</w:r>
+					</w:p>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T7"/>
+							</w:rPr>
+							<w:t>Programming: C++, SQL, HTML</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="P3"/>
+			</w:pPr>
+		</w:p>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblStyle w:val="Table5"/>
+				<w:tblW w:w="9645.2372" w:type="dxa"/>
+				<w:tblInd w:w="-54.999" w:type="dxa"/>
+				<w:jc w:val="left"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="2488.563"/>
+				<w:gridCol w:w="7156.1071"/>
+			</w:tblGrid>
+			<w:tr>
+				<w:trPr/>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="2488.563"/>
+						<w:shd w:val="solid" w:color="ffffff"/>
+						<w:tcMar/>
+						<w:tcBorders>
+							<w:top w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:bottom w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:left w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:right w:val="none" w:sz="0" w:color="auto"/>
+						</w:tcBorders>
+					</w:tcPr>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T5"/>
+							</w:rPr>
+							<w:t>REFERENCES</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="7156.1071"/>
+						<w:shd w:val="solid" w:color="ffffff"/>
+						<w:tcMar/>
+						<w:tcBorders>
+							<w:top w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:bottom w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:left w:val="single" w:sz="0" w:color="ffffff"/>
+							<w:right w:val="single" w:sz="0" w:color="ffffff"/>
+						</w:tcBorders>
+					</w:tcPr>
+					<w:p>
+						<w:pPr>
+							<w:pStyle w:val="Zawartość_20_tabeli"/>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="T7"/>
+							</w:rPr>
+							<w:t>References available on request</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Standard"/>
+			</w:pPr>
+		</w:p>
+		<w:sectPr>
+			<w:type w:val="next-page"/>
+			<w:pgSz w:w="11907.5672" w:h="16839.9003" w:orient="portrait"/>
+			<w:pgMar w:top="620.865" w:bottom="620.865" w:left="620.865" w:gutter="0" w:right="620.865"/>
+			<w:pgBorders w:offset-from="text">
+				<w:top w:val="single" w:sz="0" w:color="000001" w:space="29.9905"/>
+				<w:bottom w:val="single" w:sz="0" w:color="000001" w:space="29.9905"/>
+				<w:left w:val="single" w:sz="0" w:color="000001" w:space="29.9905"/>
+				<w:right w:val="single" w:sz="0" w:color="000001" w:space="29.9905"/>
+			</w:pgBorders>
+		</w:sectPr>
+	</w:body>
